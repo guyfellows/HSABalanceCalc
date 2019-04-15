@@ -1,0 +1,60 @@
+2019,1,25,234,Wellness incentive
+2019,2,20,-444,Unspecified protozoal intestinal disease
+2019,3,36,157,Healthcare rebate
+2019,4,17,-506,Salmonella osteomyelitis
+2019,5,30,-868,Amebic infection of other sites
+2019,6,15,-347,Paratyphoid fever
+2019,7,31,89,Bank error in your favor
+2019,8,6,-551,Intestinal trichomoniasis
+2019,9,31,131,Settlement from class action lawsuit
+2019,10,26,-769,Intestinal infection due to aerobacter aerogenes
+2019,11,24,-994,Intestinal infection due to arizona group of paracolon bacilli
+2019,12,39,-190,Intestinal infection due to staphylococcus
+2020,1,39,-863,Amebic brain abscess
+2020,2,18,468,Discovered (pre-tax) gold from WWII
+2020,3,29,-503,Intestinal trichomoniasis
+2020,4,5,-363,Acute amebic dysentery without mention of abscess
+2020,5,12,-716,Intestinal infection due to aerobacter aerogenes
+2020,6,31,-842,Salmonella pneumonia
+2020,7,25,-732,Salmonella gastroenteritis
+2020,8,34,640,Wellness incentive
+2020,9,33,-915,Coccidiosis
+2020,10,30,425,Healthcare rebate
+2020,11,11,487,Bank error in your favor
+2020,12,14,-834,Shigella dysenteriae
+2021,1,34,-574,Salmonella pneumonia
+2021,2,38,-477,Paratyphoid fever
+2021,3,12,-108,Botulism food poisoning
+2021,4,27,-404,Acute amebic dysentery without mention of abscess
+2021,5,35,-975,Other specified shigella infections
+2021,6,43,-451,Salmonella gastroenteritis
+2021,7,22,-672,Amebic infection of other sites
+2021,8,30,-473,Intestinal infection due to enterotoxigenic E.coli
+2021,9,31,886,Settlement from class action lawsuit
+2021,10,42,-312,Balantidiasis
+2021,11,43,-108,Unspecified protozoal intestinal disease
+2021,12,15,-976,Other bacterial food poisoning
+2022,1,37,-622,Salmonella osteomyelitis
+2022,2,14,520,Discovered (pre-tax) gold from WWII
+2022,3,17,-966,Amebiasis
+2022,4,38,-51,Amebic brain abscess
+2022,5,20,-233,Cholera due to vibrio cholerae el tor
+2022,6,41,-939,Staphylococcal food poisoning
+2022,7,42,75,Bank error in your favor
+2022,8,19,-922,Intestinal trichomoniasis
+2022,9,20,190,Wellness incentive
+2022,10,23,183,Healthcare rebate
+2022,11,12,610,Bank error in your favor
+2022,12,39,-561,Typhoid fever
+2023,1,8,315,Settlement from class action lawsuit
+2023,2,26,-63,Food poisoning due to Clostridium perfringens(C.welchii)
+2023,3,17,32,Food poisoning
+2023,4,19,-393,Intestinal infection due to enterohemorrhagic E.coli
+2023,5,43,37,Discovered (pre-tax) gold from WWII
+2023,6,17,701,Wellness incentive
+2023,7,12,606,Healthcare rebate
+2023,8,14,-511,Paratyphoid fever A
+2023,9,27,-636,Shigella flexneri
+2023,10,35,-729,Staphylococcal food poisoning
+2023,11,35,-306,Salmonella arthritis
+2023,12,42,507,Discovered (pre-tax) gold from WWII
